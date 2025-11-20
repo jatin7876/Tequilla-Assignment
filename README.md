@@ -1,16 +1,65 @@
-# React + Vite
+# DataX Solutions – Modern Landing Page  
+A responsive, modern, and visually rich landing page built using **React** and **Tailwind CSS**.  
+This project includes a transparent navbar, hero section with animated arrows, gradient shapes, service sections, client logos, case studies, and a professional footer.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ✅ Modern Transparent Navbar
+- Clean UI with blue theme  
+- Animated hover underline  
+- Mobile menu with smooth transitions  
+- Fully responsive
 
-## React Compiler
+### 🎨 Hero Section
+- Custom left & right navigation arrows (`<` and `>`), SVG-based  
+- Gradient X-shape background  
+- Dynamic content section  
+- Highlighted “Learn More” button  
+- Fully responsive layout
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🧩 Sections Included
+- **Solutions Section**  
+- **Clients / Partners Section**  
+- **DataSol Section**  
+- **Case Studies Grid**  
+- **Custom Footer**
 
-## Expanding the ESLint configuration
+### 📱 Fully Responsive
+Built with TailwindCSS utility classes ensuring pixel-perfect layout on all screen sizes.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React JS**
+- **Tailwind CSS**
+- **Vite**
+- **SVG Icons (No icon library used)**
+- **Custom Components**
+
+---
+
+1. Install Dependencies
+npm install
+
+2. Start Development Server
+npm run dev
+
+3. Build for Production
+npm run build
+
+🤝 Contributing
+
+Pull requests are welcome!
+If you’d like to add new features or fix issues, feel free to open an issue or submit a PR.
+
+📄 License
+
+This project is licensed under the MIT License.
+
+✨ Author
+
+Jatin Thakur
+React Developer • UI/UX • Frontend Engineer
